@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Paulina Leśniak
+
+## Bioinformatics student
+
+# [![My Skills](https://skillicons.dev/icons?i=bash,html,css,bootstrap,cs,dotnet,docker,py,flask,heroku,git,github,latex,r)](https://skillicons.dev)
 
 <!--
 **PaulinaL01/PaulinaL01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
