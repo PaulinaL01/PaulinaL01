@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Paulina Leśniak
 
-## Bioinformatics student
+## Junior Python Developer
 
 # [![My Skills](https://skillicons.dev/icons?i=bash,html,css,bootstrap,cs,dotnet,docker,py,flask,heroku,git,github,latex,r)](https://skillicons.dev)
 
